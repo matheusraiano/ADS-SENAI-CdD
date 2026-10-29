@@ -1,0 +1,10 @@
+Aula(28-10-2026):
+    para criar ambiente virtual no python:
+        py -m venv .cd
+    aqui ativa o ambiente:
+        .cd\Scripts\activate
+    dentro do ambiente iniciado da pra instalar bibliotcas:
+        pip install streamlit
+        pip install seaborn
+    ainda dentro do ambiente você pode iniciar seu script:
+        streamlit run app.py
