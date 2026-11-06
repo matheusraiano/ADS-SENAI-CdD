@@ -8,3 +8,6 @@ Aula(28-10-2026):
         pip install seaborn
     ainda dentro do ambiente você pode iniciar seu script:
         streamlit run app.py
+aula(04-11-2026):
+    Link dos scripts:
+        https://tarry-minute-1d3.notion.site/Configurando-o-Ambiente-3b5b70973a9f80ada019ddbcf7437383
